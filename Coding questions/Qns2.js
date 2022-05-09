@@ -18,3 +18,14 @@ function fn(){
     console.log("carname",carname);
 } 
 fn()
+
+/*
+
+uf  - 1
+10  - 3
+10  - 5 
+uf  - 9
+uf  - 12
+5000  - 18
+
+*/
