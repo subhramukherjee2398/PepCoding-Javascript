@@ -14,3 +14,14 @@ const p3 = {...p1}
 p3.name = "CCCCCC"
 console.log(p1)
 console.log(p3)
+
+
+/*
+
+AAA,23  -9
+BBB,23  -9
+
+AAA,23  -14
+CCC,23  -15
+
+*/

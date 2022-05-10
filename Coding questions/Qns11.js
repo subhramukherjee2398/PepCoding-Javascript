@@ -4,3 +4,9 @@ const sumArray = arr.reduce((accumulator,x)=>{
     return accumulator + x;
 },0)
 console.log(sumArray)
+
+/*
+
+15
+
+*/
