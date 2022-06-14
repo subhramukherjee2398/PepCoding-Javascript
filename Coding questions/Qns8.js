@@ -11,10 +11,3 @@ fn();
 fn.myfan();
 console.log(fn.prop)
 
-/*
-
-Hello Fn-10
-Adding Method...  - 11
-"property" -12
-
-*/

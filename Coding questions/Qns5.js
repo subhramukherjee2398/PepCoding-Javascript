@@ -9,11 +9,3 @@ console.log("ff",fruits)
 }
 console.log("ff",fruits)
 
-/*
-
-orange - 2
-uf  - 6 
-apple - 8
-orange - 10
-
-*/

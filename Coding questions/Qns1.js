@@ -15,13 +15,12 @@ var FnContainer = function(){
 FnContainer()
 
 /*
-
 uf
 uf
-captain
-Hello from fn
-hello from fn
-Is not a function
+cap
+Hello
+Hello
+is not a function
 
 
 */
