@@ -32,6 +32,15 @@ p4 : now when setTimeout try to access i; for the closures it will move upwords 
   })();
 }
 
+/* another apporch   */
+
+for(var i = 0 ; i<= 5 ; i++){
+  setTimeout(((i)=>{
+    console.log(i)
+  })(i),1000)
+}
+
+
 /* 
 it will print 0-6 
 because very time the function is calling 
