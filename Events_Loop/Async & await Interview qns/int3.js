@@ -22,7 +22,7 @@ function resolveAfterNSeconds(n,x){
 })()
 
 /*
-p1 : line 13  the  function will a pending promise.
+p1 : line 13  the  function will return  a pending promise.
 p2 : a.then means resolve and it will take time 1000 sec
 p3 : for y , it will take 2000 sec... so 3000 total
 p4 :  for Z , it will take 1000 sec... so 4000 total
