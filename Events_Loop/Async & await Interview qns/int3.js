@@ -9,7 +9,7 @@ function resolveAfterNSeconds(n,x){
 }
 //* alspo how much time it will take * /
 (function(){
-
+    
     let a = resolveAfterNSeconds(1000,1)
   // console.log(a)
     a.then(async function(x){
