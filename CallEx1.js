@@ -12,8 +12,5 @@ const person2 = {
     
 }
 
-
-
-
 person1.fn()
 person1.fn.call(person2) 

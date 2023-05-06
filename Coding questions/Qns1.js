@@ -7,7 +7,7 @@ Fn()
 function Fn(){
     console.log("Hello from fn");
 }
-Fn()
+Fn() 
 FnContainer()
 var FnContainer = function(){
     console.log("I am expression...")

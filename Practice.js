@@ -1,8 +1,6 @@
 
-const delay = (ms) =>{
-  return new Promise((resolve)=>{
-    setTimeout(resolve,ms)
-  })
+for(var i = 0 ; i< 10 ; i++){
+    setTimeout(()=>{
+        console.l
+    })
 }
-
-delay(3000).then(()=>alert('runs after 3 sec'))
